@@ -23,8 +23,11 @@
 " width="400" controls></video>
 
 ### 🔸 Output Video with Lane Detection  
-<video src="https://github.com/user-attachments/assets/26a92fd8-fa6a-4581-b0c5-3ac7790414dd
+<video src="https://github.com/user-attachments/assets/f81331d3-e013-48bf-8e82-cad6d8ce57ec
 " width="400" controls></video>
+
+
+
 
 
 
